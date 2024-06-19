@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_call"
+        android:title="Позвонить в поддержку"/>
+    <item
+        android:id="@+id/menu_email"
+        android:title="Написать в поддержку"/>
+</menu>

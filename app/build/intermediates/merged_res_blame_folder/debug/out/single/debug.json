@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\layout_placeyourorder_list_row.xml.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\layout\\placeyourorder_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\layout_activity_order_history.xml.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\layout\\activity_order_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\drawable_ic_add_circle.xml.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\drawable\\ic_add_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\layout_menu_list_row.xml.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\layout\\menu_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\drawable_ic_restaurants.xml.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\drawable\\ic_restaurants.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\drawable_ic_remove_circle.xml.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\drawable\\ic_remove_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\raw_restaurent.json.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\raw\\restaurent.json"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\drawable_button_bg.xml.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\drawable_ic_profile.xml.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\layout_activity_registr.xml.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\layout\\activity_registr.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\menu_popup_menu.xml.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\menu\\popup_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\layout_item_order_history.xml.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\layout\\item_order_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\drawable_ic_splash.xml.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\drawable\\ic_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\layout_activity_success_order.xml.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\layout\\activity_success_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\layout_activity_place_your_order.xml.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\layout\\activity_place_your_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\layout_activity_restaurant_menu.xml.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\layout\\activity_restaurant_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\layout_recycler_restautant_list_row.xml.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\layout\\recycler_restautant_list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\drawable_ic_orders_history.xml.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\drawable\\ic_orders_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\drawable_orange_border.xml.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\drawable\\orange_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\drawable_vopros.xml.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\drawable\\vopros.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:/raw_restaurent.json.flat",
+        "source": "com.demo.foodorderanddeliveryappkotlin.app-main-24:/raw/restaurent.json"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-merged_res-22:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\kotas\\.gradle\\daemon\\7.5\\com.demo.foodorderanddeliveryappkotlin.app-main-24:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    }
+]

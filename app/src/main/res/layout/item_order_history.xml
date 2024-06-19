@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <TextView
+        android:id="@+id/textViewRestaurant"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:text="Ресторан"
+        android:textStyle="bold"
+        android:layout_marginTop="8dp"
+        android:textSize="23sp"
+        android:textColor="@color/purple_700"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+
+    <TextView
+        android:id="@+id/textViewItem"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Название продукта слишком длинное и занимает слишком много места на экране"
+        android:textSize="14sp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintWidth_max="0dp"
+        app:layout_constrainedWidth="true"
+        app:layout_constraintEnd_toStartOf="@id/imageViewProduct"
+        app:layout_constraintHorizontal_bias="0"
+        app:layout_constraintWidth_default="wrap"
+        app:layout_constraintTop_toBottomOf="@id/textViewRestaurant"
+        />
+
+    <TextView
+        android:id="@+id/textViewPhoneNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:text="Номер телефона"
+        android:textSize="14sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textViewItem" />
+
+    <TextView
+        android:id="@+id/textViewPrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:text="Цена"
+        android:textColor="@color/purple_700"
+        android:textSize="14sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textViewPhoneNumber"
+        android:textStyle="italic|bold" />
+
+    <ImageView
+        android:id="@+id/imageViewProduct"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@drawable/ic_splash"
+        android:layout_marginEnd="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintDimensionRatio="1:1" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,250 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:2:1-49:12
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\kotas\.gradle\caches\transforms-3\f53a00580f4dee64f9e796f2e904cd39\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\kotas\.gradle\caches\transforms-3\56a55533a5f9a85cc0ab2c1a7275727b\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\kotas\.gradle\caches\transforms-3\29040b1b271a3fd0754a213f13d10c3f\transformed\constraintlayout-2.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\kotas\.gradle\caches\transforms-3\6ef6466f095163f6359393ed3b567268\transformed\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\kotas\.gradle\caches\transforms-3\851698f46fc7c8d9aebf6b8bc0673b61\transformed\jetified-glide-4.12.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\edd001069f23475924a5afa5df4b4439\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\kotas\.gradle\caches\transforms-3\67e8a0adc538e6bb30a3253547e29193\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\kotas\.gradle\caches\transforms-3\743f189f928a361ad33a23040337d686\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\kotas\.gradle\caches\transforms-3\3e7f2176d07c193ef8684f2c92ef9558\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\8689d0db589a4ab4fc77bcdc889f88f2\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\kotas\.gradle\caches\transforms-3\87745dd2c48bd88ad56c1e7094da287b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\c54ca0044accb60a1d4f1e42bfc4359b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\kotas\.gradle\caches\transforms-3\094b40a2a7eed897762127270be9afac\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kotas\.gradle\caches\transforms-3\fd38e84b510412808585f72d1b653217\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kotas\.gradle\caches\transforms-3\092eda76bbf7f1fbd1be0a14373b93fa\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\f601e55f08d9a8c45f1463dc925bb5dd\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\86dc1899beea0752b5cfcfd5ca61c8a1\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\b052207bf9312c63521154faaa1f2602\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\kotas\.gradle\caches\transforms-3\c2ce425b5b39c9dec47e9f75905fef4e\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\9891697fb8e0d8fc6d55dfe2c550e390\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\kotas\.gradle\caches\transforms-3\bd642b8b656b37eb31a733cc093832a8\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\649352a269038789cef58bd8ce890521\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\kotas\.gradle\caches\transforms-3\9d4cf25347f6a53d0d3cd9a3f9d19b60\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\kotas\.gradle\caches\transforms-3\d70479a204ebc4d968585f1342e57598\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\kotas\.gradle\caches\transforms-3\69e5240ca6bc8233b4037a217cd1599b\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\kotas\.gradle\caches\transforms-3\5fd7089bad3adf093b8844fabefca69f\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\b75d02c325c9512ef0d9162b36f973dd\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\kotas\.gradle\caches\transforms-3\d96ca368ae44fcd00c754539a5e1116e\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\kotas\.gradle\caches\transforms-3\6ec2251de333dd59410b4408df5ca3b0\transformed\exifinterface-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kotas\.gradle\caches\transforms-3\8a4357f96530bc320c03d9f0dc2daab2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\72e6b0ec47b03602f4eb5550ebcc17ef\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kotas\.gradle\caches\transforms-3\1d85c27981eb8be12cc5e2ff97a1d179\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\kotas\.gradle\caches\transforms-3\e4d3866fb4e24293263abe03a56eeaee\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\kotas\.gradle\caches\transforms-3\4650babcc572a4f48194ac31d4b3dd5d\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\6bcbd6e8ae404a67131fcf07809c8106\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\f9e1569d9db427d6481fff2e6efb5ca9\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\691c126b165e49475025ccae46194395\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\cf799ce90b73e48775bcfa2d557dcac1\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\kotas\.gradle\caches\transforms-3\8286a8c73e719543075a2a8314045dc2\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:3:5-53
+		INJECTED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml
+		ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml
+		ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:7:5-47:19
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\kotas\.gradle\caches\transforms-3\56a55533a5f9a85cc0ab2c1a7275727b\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\kotas\.gradle\caches\transforms-3\56a55533a5f9a85cc0ab2c1a7275727b\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\kotas\.gradle\caches\transforms-3\29040b1b271a3fd0754a213f13d10c3f\transformed\constraintlayout-2.1.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\kotas\.gradle\caches\transforms-3\29040b1b271a3fd0754a213f13d10c3f\transformed\constraintlayout-2.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\kotas\.gradle\caches\transforms-3\851698f46fc7c8d9aebf6b8bc0673b61\transformed\jetified-glide-4.12.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\kotas\.gradle\caches\transforms-3\851698f46fc7c8d9aebf6b8bc0673b61\transformed\jetified-glide-4.12.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.6.0] C:\Users\kotas\.gradle\caches\transforms-3\bd642b8b656b37eb31a733cc093832a8\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\kotas\.gradle\caches\transforms-3\bd642b8b656b37eb31a733cc093832a8\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\kotas\.gradle\caches\transforms-3\d96ca368ae44fcd00c754539a5e1116e\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\kotas\.gradle\caches\transforms-3\d96ca368ae44fcd00c754539a5e1116e\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kotas\.gradle\caches\transforms-3\8a4357f96530bc320c03d9f0dc2daab2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kotas\.gradle\caches\transforms-3\8a4357f96530bc320c03d9f0dc2daab2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\kotas\.gradle\caches\transforms-3\bd642b8b656b37eb31a733cc093832a8\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:13:9-67
+activity#com.demo.foodorderanddeliveryappkotlin.SuccessOrderActivity
+ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:14:9-16:39
+	android:exported
+		ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:15:13-49
+activity#com.demo.foodorderanddeliveryappkotlin.PlaceYourOrderActivity
+ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:17:9-19:39
+	android:exported
+		ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:19:13-36
+	android:name
+		ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:18:13-51
+activity#com.demo.foodorderanddeliveryappkotlin.RestaurantMenuActivity
+ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:20:9-22:39
+	android:exported
+		ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:22:13-36
+	android:name
+		ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:21:13-51
+activity#com.demo.foodorderanddeliveryappkotlin.RegistrationActivity
+ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:24:13-49
+activity#com.demo.foodorderanddeliveryappkotlin.LoginActivity
+ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:26:9-28:39
+	android:exported
+		ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:27:13-42
+activity#com.demo.foodorderanddeliveryappkotlin.ProfileActivity
+ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:29:9-31:39
+	android:exported
+		ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:30:13-44
+activity#com.demo.foodorderanddeliveryappkotlin.OrdersHistoryActivity
+ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:32:9-34:39
+	android:exported
+		ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:33:13-50
+activity#com.demo.foodorderanddeliveryappkotlin.SplashActivity
+ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:35:9-43:20
+	android:exported
+		ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:36:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:41:27-74
+activity#com.demo.foodorderanddeliveryappkotlin.MainActivity
+ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:44:9-46:39
+	android:exported
+		ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:46:13-36
+	android:name
+		ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml:45:13-41
+uses-sdk
+INJECTED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml
+INJECTED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\kotas\.gradle\caches\transforms-3\f53a00580f4dee64f9e796f2e904cd39\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\kotas\.gradle\caches\transforms-3\f53a00580f4dee64f9e796f2e904cd39\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\kotas\.gradle\caches\transforms-3\56a55533a5f9a85cc0ab2c1a7275727b\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\kotas\.gradle\caches\transforms-3\56a55533a5f9a85cc0ab2c1a7275727b\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\kotas\.gradle\caches\transforms-3\29040b1b271a3fd0754a213f13d10c3f\transformed\constraintlayout-2.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\kotas\.gradle\caches\transforms-3\29040b1b271a3fd0754a213f13d10c3f\transformed\constraintlayout-2.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\kotas\.gradle\caches\transforms-3\6ef6466f095163f6359393ed3b567268\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\kotas\.gradle\caches\transforms-3\6ef6466f095163f6359393ed3b567268\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\kotas\.gradle\caches\transforms-3\851698f46fc7c8d9aebf6b8bc0673b61\transformed\jetified-glide-4.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\kotas\.gradle\caches\transforms-3\851698f46fc7c8d9aebf6b8bc0673b61\transformed\jetified-glide-4.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\edd001069f23475924a5afa5df4b4439\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\edd001069f23475924a5afa5df4b4439\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\kotas\.gradle\caches\transforms-3\67e8a0adc538e6bb30a3253547e29193\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\kotas\.gradle\caches\transforms-3\67e8a0adc538e6bb30a3253547e29193\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\kotas\.gradle\caches\transforms-3\743f189f928a361ad33a23040337d686\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\kotas\.gradle\caches\transforms-3\743f189f928a361ad33a23040337d686\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\kotas\.gradle\caches\transforms-3\3e7f2176d07c193ef8684f2c92ef9558\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\kotas\.gradle\caches\transforms-3\3e7f2176d07c193ef8684f2c92ef9558\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\8689d0db589a4ab4fc77bcdc889f88f2\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\8689d0db589a4ab4fc77bcdc889f88f2\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\kotas\.gradle\caches\transforms-3\87745dd2c48bd88ad56c1e7094da287b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\kotas\.gradle\caches\transforms-3\87745dd2c48bd88ad56c1e7094da287b\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\c54ca0044accb60a1d4f1e42bfc4359b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\c54ca0044accb60a1d4f1e42bfc4359b\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\kotas\.gradle\caches\transforms-3\094b40a2a7eed897762127270be9afac\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\kotas\.gradle\caches\transforms-3\094b40a2a7eed897762127270be9afac\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kotas\.gradle\caches\transforms-3\fd38e84b510412808585f72d1b653217\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\kotas\.gradle\caches\transforms-3\fd38e84b510412808585f72d1b653217\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kotas\.gradle\caches\transforms-3\092eda76bbf7f1fbd1be0a14373b93fa\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\kotas\.gradle\caches\transforms-3\092eda76bbf7f1fbd1be0a14373b93fa\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\f601e55f08d9a8c45f1463dc925bb5dd\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\f601e55f08d9a8c45f1463dc925bb5dd\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\86dc1899beea0752b5cfcfd5ca61c8a1\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\86dc1899beea0752b5cfcfd5ca61c8a1\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\b052207bf9312c63521154faaa1f2602\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\b052207bf9312c63521154faaa1f2602\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\kotas\.gradle\caches\transforms-3\c2ce425b5b39c9dec47e9f75905fef4e\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\kotas\.gradle\caches\transforms-3\c2ce425b5b39c9dec47e9f75905fef4e\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\9891697fb8e0d8fc6d55dfe2c550e390\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\9891697fb8e0d8fc6d55dfe2c550e390\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\kotas\.gradle\caches\transforms-3\bd642b8b656b37eb31a733cc093832a8\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\kotas\.gradle\caches\transforms-3\bd642b8b656b37eb31a733cc093832a8\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\649352a269038789cef58bd8ce890521\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\649352a269038789cef58bd8ce890521\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\kotas\.gradle\caches\transforms-3\9d4cf25347f6a53d0d3cd9a3f9d19b60\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\kotas\.gradle\caches\transforms-3\9d4cf25347f6a53d0d3cd9a3f9d19b60\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\kotas\.gradle\caches\transforms-3\d70479a204ebc4d968585f1342e57598\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\kotas\.gradle\caches\transforms-3\d70479a204ebc4d968585f1342e57598\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\kotas\.gradle\caches\transforms-3\69e5240ca6bc8233b4037a217cd1599b\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\kotas\.gradle\caches\transforms-3\69e5240ca6bc8233b4037a217cd1599b\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\kotas\.gradle\caches\transforms-3\5fd7089bad3adf093b8844fabefca69f\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\kotas\.gradle\caches\transforms-3\5fd7089bad3adf093b8844fabefca69f\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\b75d02c325c9512ef0d9162b36f973dd\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\b75d02c325c9512ef0d9162b36f973dd\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\kotas\.gradle\caches\transforms-3\d96ca368ae44fcd00c754539a5e1116e\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\kotas\.gradle\caches\transforms-3\d96ca368ae44fcd00c754539a5e1116e\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\kotas\.gradle\caches\transforms-3\6ec2251de333dd59410b4408df5ca3b0\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\kotas\.gradle\caches\transforms-3\6ec2251de333dd59410b4408df5ca3b0\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kotas\.gradle\caches\transforms-3\8a4357f96530bc320c03d9f0dc2daab2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kotas\.gradle\caches\transforms-3\8a4357f96530bc320c03d9f0dc2daab2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\72e6b0ec47b03602f4eb5550ebcc17ef\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\72e6b0ec47b03602f4eb5550ebcc17ef\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kotas\.gradle\caches\transforms-3\1d85c27981eb8be12cc5e2ff97a1d179\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\kotas\.gradle\caches\transforms-3\1d85c27981eb8be12cc5e2ff97a1d179\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\kotas\.gradle\caches\transforms-3\e4d3866fb4e24293263abe03a56eeaee\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\kotas\.gradle\caches\transforms-3\e4d3866fb4e24293263abe03a56eeaee\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\kotas\.gradle\caches\transforms-3\4650babcc572a4f48194ac31d4b3dd5d\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\kotas\.gradle\caches\transforms-3\4650babcc572a4f48194ac31d4b3dd5d\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\6bcbd6e8ae404a67131fcf07809c8106\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\6bcbd6e8ae404a67131fcf07809c8106\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\f9e1569d9db427d6481fff2e6efb5ca9\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\f9e1569d9db427d6481fff2e6efb5ca9\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\691c126b165e49475025ccae46194395\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\691c126b165e49475025ccae46194395\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\cf799ce90b73e48775bcfa2d557dcac1\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\kotas\.gradle\caches\transforms-3\cf799ce90b73e48775bcfa2d557dcac1\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\kotas\.gradle\caches\transforms-3\8286a8c73e719543075a2a8314045dc2\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\kotas\.gradle\caches\transforms-3\8286a8c73e719543075a2a8314045dc2\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml
+INJECTED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml
+		ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml
+		ADDED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\_ANDROID_STUDIO\TOP\food-delivery-app\app\src\main\AndroidManifest.xml

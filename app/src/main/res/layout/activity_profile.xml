@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardView2"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:cardCornerRadius="10dp"
+        app:cardElevation="5dp"
+        app:cardUseCompatPadding="true"
+        app:layout_constraintBottom_toTopOf="@id/bottomNavigationView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_margin="20dp"
+                android:src="@drawable/ic_profile" />
+
+            <TextView
+                android:id="@+id/name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="Ваше имя"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/emailId"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="Ваша почта"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/mobileNumber"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="Ваш номер"
+                android:textSize="18sp" />
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cvButtonHistory"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:layout_below="@+id/mobileNumber"
+                android:layout_margin="10dp"
+                app:cardCornerRadius="50dp">
+
+                <TextView
+                    android:id="@+id/btnHistory"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@color/purple_200"
+                    android:gravity="center"
+                    android:text="История"
+                    android:textColor="#fafafa"
+                    android:textSize="20sp" />
+            </androidx.cardview.widget.CardView>
+
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cvButtonLogout"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:layout_below="@+id/mobileNumber"
+                android:layout_margin="10dp"
+                app:cardCornerRadius="50dp">
+
+                <TextView
+                    android:id="@+id/btnLogout"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@color/purple_200"
+                    android:gravity="center"
+                    android:text="Выйти"
+                    android:textColor="#fafafa"
+                    android:textSize="20sp" />
+            </androidx.cardview.widget.CardView>
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottomNavigationView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:menu="@menu/bottom_nav_menu" />
+
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fabPhone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="25dp"
+        android:layout_marginRight="30dp"
+        android:backgroundTint="@color/purple_200"
+        app:layout_constraintBottom_toTopOf="@id/bottomNavigationView"
+        app:layout_constraintEnd_toEndOf="@+id/cardView2"
+        android:src="@drawable/vopros"
+        app:maxImageSize="80dp"
+        />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

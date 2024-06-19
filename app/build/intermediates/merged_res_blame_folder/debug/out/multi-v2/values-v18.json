@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.demo.foodorderanddeliveryappkotlin.app-mergeDebugResources-20:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kotas\\.gradle\\caches\\transforms-3\\6ef6466f095163f6359393ed3b567268\\transformed\\appcompat-1.3.1\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,422 @@
+[
+  {
+    "name":"Хлеб и выпечка",
+    "address":"Попробуйте нашу булочную продукцию!",
+    "delivery_charge": 249,
+    "image":"https://cm.samokat.ru/processed/category/043ed18a-2438-49cc-8fec-9638cbe0c180.jpg",
+
+    "hours":{
+      "Sunday":"7:00 - 00:00",
+      "Monday":"7:00 - 00:00",
+      "Tuesday":"7:00 - 00:00",
+      "Wednesday":"7:00 - 00:00",
+      "Thursday":"7:00 - 00:00",
+      "Friday":"7:00 - 00:00",
+      "Saturday":"7:00 - 00:00"
+    },
+    "menus": [
+      {
+        "name": "Хлеб ржаной",
+        "price": 89,
+        "url": "https://cm.samokat.ru/processed/l/product_card/6786eb69-0a5b-4f2c-b698-5be6c508cdfa.jpg"
+      },
+      {
+        "name": "Хлеб - чёрный",
+        "price": 49,
+        "url": "https://cm.samokat.ru/processed/l/product_card/1694440724-4610249577254-2.jpg"
+      },
+      {
+        "name": "Хлеб - белый",
+        "price": 59,
+        "url": "https://cm.samokat.ru/processed/l/public/960846995833a3ee_4607972786954-1.jpg"
+      },
+      {
+        "name": "Багет",
+        "price": 79,
+        "url": "https://cm.samokat.ru/processed/l/public/1c53bfb5ebaadc20_7930110350142-2.jpg"
+      },
+      {
+        "name": "Круассан",
+        "price": 131,
+        "url": "https://cm.samokat.ru/processed/l/product_card/e9d62b6a-bce3-4f45-9f87-49ad1b1a67c5.jpg"
+      },
+      {
+        "name": "Сосиска в тесте",
+        "price": 95,
+        "url": "https://cm.samokat.ru/processed/l/product_card/a31bcc61-8075-497a-b38d-fa4ae2c5e1b5.jpg"
+      },
+      {
+        "name": "Пирожки с яйцом",
+        "price": 109,
+        "url": "https://cm.samokat.ru/processed/l/public/5db119c485ef6af3_2000018661048-1.jpg"
+      },
+      {
+        "name": "Конвертики",
+        "price": 199,
+        "url": "https://cm.samokat.ru/processed/l/product_card/7a15d9cc-0057-4510-9e6c-42be9955309d.jpg"
+      },
+      {
+        "name": "Хлебцы",
+        "price": 125,
+        "url": "https://cm.samokat.ru/processed/l/public/afdee6d55a3e8771_4607024591468-1.jpg"
+      },
+      {
+        "name": "Мини-сушки",
+        "price": 65,
+        "url": "https://cm.samokat.ru/processed/l/product_card/f695bb4b-23a5-4d90-9352-bb5e1bae6685.jpg"
+      }
+
+    ]
+  },
+
+  {
+    "name":"Овощи и фрукты",
+    "address":"Свежайшие фрукты и овощи ждут вас!",
+    "delivery_charge": 249,
+    "image":"https://cm.samokat.ru/processed/category/4a1b4f4f-52eb-4dfd-b4f8-48ec6fa4f7ec.jpg",
+
+    "hours":{
+      "Sunday":"7:00 - 00:00",
+      "Monday":"7:00 - 00:00",
+      "Tuesday":"7:00 - 00:00",
+      "Wednesday":"7:00 - 00:00",
+      "Thursday":"7:00 - 00:00",
+      "Friday":"7:00 - 00:00",
+      "Saturday":"7:00 - 00:00"
+    },
+    "menus": [
+      {
+        "name": "Томаты",
+        "price": 249,
+        "url": "https://lenta-next.lenta.tech/_next/image?url=https%3A%2F%2Flenta.servicecdn.ru%2Fglobalassets%2F1%2F-%2F66%2F57%2F19%2F9c0d26cd-99c5-5404-8cd3-2573c1065298.png%3Fpreset%3Dthumbnaillossy&w=1920&q=75&v=2"
+      },
+      {
+        "name": "Огурцы",
+        "price": 110,
+        "url": "https://cm.samokat.ru/processed/l/original/0dccfd34-2d97-11ec-a0ee-ec0d9a21b021_2112726670.jpg"
+      },
+      {
+        "name": "Картошка",
+        "price": 104,
+        "url": "https://lenta-next.lenta.tech/_next/image?url=https%3A%2F%2Flenta.servicecdn.ru%2Fglobalassets%2F1%2F-%2F67%2F49%2F38%2F509631_2.png%3Fpreset%3Dthumbnaillossy&w=1920&q=75&v=2"
+      },
+      {
+        "name": "Яблоки",
+        "price": 104,
+        "url": "https://lenta-next.lenta.tech/_next/image?url=https%3A%2F%2Flenta.servicecdn.ru%2Fglobalassets%2F1%2F-%2F30%2F52%2F70%2Fe068828a-7573-5cd7-9c63-1d790649ce33_2.png%3Fpreset%3Dthumbnaillossy&w=1920&q=75&v=2"
+      },
+      {
+        "name": "Ассорти перцев",
+        "price": 209,
+        "url": "https://cm.samokat.ru/processed/l/original/170753267_229457085.jpg"
+      },
+      {
+        "name": "Шампиньоны",
+        "price": 99,
+        "url": "https://cm.samokat.ru/processed/l/product_card/0dfdf7d0-a87d-4f02-b31c-68dc32b6558c.jpg"
+      },
+      {
+        "name": "Капуста",
+        "price": 69,
+        "url": "https://cm.samokat.ru/processed/l/product_card/491b7896-4c55-40c3-9ff3-a1b77095cc46.jpg"
+      },
+      {
+        "name": "Лимоны",
+        "price": 219,
+        "url": "https://cm.samokat.ru/processed/l/public/a9b94ae4d96a1148_2000492061518-1.jpg"
+      },
+      {
+        "name": "Апельсины",
+        "price": 189,
+        "url": "https://cm.samokat.ru/processed/l/product_card/706d5420-a4af-484a-b36e-467e92009cfe.jpg"
+      },
+      {
+        "name": "Бананы",
+        "price": 169,
+        "url": "https://cm.samokat.ru/processed/l/product_card/4e211473-d3d6-4a8c-b851-772a082fe309.jpg"
+      }
+    ]
+
+  },
+
+  {
+    "name":"Молоко, яйца и сыр",
+    "address":"Молочная и фермерская продукция прямиком от животных!",
+    "delivery_charge": 249,
+    "image":"https://cm.samokat.ru/processed/public/9ecb524e05b2b4b3_________________________.jpg",
+
+    "hours":{
+      "Sunday":"7:00 - 00:00",
+      "Monday":"7:00 - 00:00",
+      "Tuesday":"7:00 - 00:00",
+      "Wednesday":"7:00 - 00:00",
+      "Thursday":"7:00 - 00:00",
+      "Friday":"7:00 - 00:00",
+      "Saturday":"7:00 - 00:00"
+    },
+    "menus": [
+      {
+        "name": "Яйца х10",
+        "price": 157,
+        "url": "https://cm.samokat.ru/processed/l/public/59915231724530df_4640132800022.jpg"
+      },
+      {
+        "name": "Яйца х20",
+        "price": 254,
+        "url": "https://cm.samokat.ru/processed/l/public/aa8d6d70009e2268_4602277010995.jpg"
+      },
+      {
+        "name": "Сметана",
+        "price": 69,
+        "url": "https://cm.samokat.ru/processed/l/product_card/9aada0fb-ff99-4970-aa76-72c566cfb28a.jpg"
+      },
+      {
+        "name": "Масло",
+        "price": 159,
+        "url": "https://cm.samokat.ru/processed/l/product_card/50638677-929c-4078-a97b-65e44bdd32c0.jpg"
+      },
+      {
+        "name": "Кефир",
+        "price": 92,
+        "url": "https://cm.samokat.ru/processed/l/product_card/d180db9a-4147-4a30-ac84-80fdef690d51.jpg"
+      },
+      {
+        "name": "Творог",
+        "price": 69,
+        "url": "https://cm.samokat.ru/processed/l/product_card/3481200d-18fc-4557-a737-c630c96bf0e9.jpg"
+      },
+      {
+        "name": "Сливки",
+        "price": 99,
+        "url": "https://cm.samokat.ru/processed/l/product_card/90e73bfb-96a1-42b6-9a7a-0ac855ec15c6.jpg"
+      },
+      {
+        "name": "Молоко",
+        "price": 89,
+        "url": "https://cm.samokat.ru/processed/l/original/158334_425819778.jpg"
+      },
+      {
+        "name": "Молоко parmalat",
+        "price": 149,
+        "url": "https://cm.samokat.ru/processed/l/product_card/509fc06d-d998-473b-a49a-ca5c2b2c7a6e.jpg"
+      },
+      {
+        "name": "Маргарин Пышка",
+        "price": 69,
+        "url": "https://cm.samokat.ru/processed/l/public/c84afb1f1b4db8b0_bb2d2b03-2485-11ee-ae78-08c0eb320147.jpg"
+      }
+    ]
+
+  },
+
+  {
+    "name":"Мясо и рыба",
+    "address":"Почти живая, но нет",
+    "delivery_charge": 249,
+    "image":"https://cm.samokat.ru/processed/category/41f8875d-0c64-492a-ad61-fdffd2e33110.jpg",
+
+    "hours":{
+      "Sunday":"7:00 - 00:00",
+      "Monday":"7:00 - 00:00",
+      "Tuesday":"7:00 - 00:00",
+      "Wednesday":"7:00 - 00:00",
+      "Thursday":"7:00 - 00:00",
+      "Friday":"7:00 - 00:00",
+      "Saturday":"7:00 - 00:00"
+    },
+    "menus": [
+      {
+        "name": "Говяжий гуляж",
+        "price": 389,
+        "url": "https://cm.samokat.ru/processed/l/public/36059c138f893995_2200797000001-1.jpg"
+      },
+      {
+        "name": "Индейка",
+        "price": 354,
+        "url": "https://cm.samokat.ru/processed/l/public/0b0247d307319f3c_4640167408637-1.jpg"
+      },
+      {
+        "name": "Свиной окорок",
+        "price": 369,
+        "url": "https://cm.samokat.ru/processed/l/public/3fac0cebfbfcba5a_4670018040440-1.jpg"
+      },
+      {
+        "name": "Говяжье бедро",
+        "price": 759,
+        "url": "https://cm.samokat.ru/processed/l/public/743bed11dec5f138_4630016235941-1.jpg"
+      },
+      {
+        "name": "Фарш",
+        "price": 402,
+        "url": "https://cm.samokat.ru/processed/l/product_card/983a31d6-5132-4f02-9529-09286795aeda.jpg"
+      },
+      {
+        "name": "Стейк говяжий",
+        "price": 379,
+        "url": "https://cm.samokat.ru/processed/l/product_card/aec3710b-b5da-45e4-af5a-c446202a6468.jpg"
+      },
+      {
+        "name": "Стейк из говядины",
+        "price": 699,
+        "url": "https://cm.samokat.ru/processed/l/original/cd48980c-1ecd-11ed-b106-08c0eb31fffb_2074461838.jpg"
+      },
+      {
+        "name": "Баранья лопатка",
+        "price": 399,
+        "url": "https://cm.samokat.ru/processed/l/product_card/2d489bf6-5141-414a-9d4d-74241980b8cf.jpg"
+      },
+      {
+        "name": "Форель",
+        "price": 599,
+        "url": "https://cm.samokat.ru/processed/l/public/d8358541c8e02f19_2200257000008-1.jpg"
+      },
+      {
+        "name": "Креветки",
+        "price": 569,
+        "url": "https://cm.samokat.ru/processed/l/public/a82bea86d54618d4_4601507008191-1.jpg"
+      }
+    ]
+
+  },
+
+  {
+    "name":"Макароны и крупы",
+    "address":"А что по зерну?",
+    "delivery_charge": 249,
+    "image":"https://cm.samokat.ru/processed/l/public/ca83ac1197f3d51f_4602248015738-1.jpg",
+
+    "hours":{
+      "Sunday":"7:00 - 00:00",
+      "Monday":"7:00 - 00:00",
+      "Tuesday":"7:00 - 00:00",
+      "Wednesday":"7:00 - 00:00",
+      "Thursday":"7:00 - 00:00",
+      "Friday":"7:00 - 00:00",
+      "Saturday":"7:00 - 00:00"
+    },
+    "menus": [
+      {
+        "name": "Спагетти",
+        "price": 90,
+        "url": "https://cm.samokat.ru/processed/l/public/923cc15354da6b19_8076809576093.jpg"
+      },
+      {
+        "name": "Макароны",
+        "price": 69,
+        "url": "https://cm.samokat.ru/processed/l/product_card/2b6e96f2-c8d1-4a19-8c66-3748478a79d8.jpg"
+      },
+      {
+        "name": "Рис",
+        "price": 189,
+        "url": "https://cm.samokat.ru/processed/l/public/341161124724742b_2201038000002.jpg"
+      },
+      {
+        "name": "Гречка",
+        "price": 117,
+        "url": "https://cm.samokat.ru/processed/l/public/8e7d097953256599_2201043000004.jpg"
+      },
+      {
+        "name": "Мука",
+        "price": 122,
+        "url": "https://cm.samokat.ru/processed/l/product_card/d109d6e3-762f-4676-9e82-7f8212787136.jpg"
+      },
+      {
+        "name": "Роллтон",
+        "price": 59,
+        "url": "https://cm.samokat.ru/processed/l/public/6a17ff1db98de726_4605496016700.jpg"
+      },
+      {
+        "name": "Чим-Чим",
+        "price": 190,
+        "url": "https://cm.samokat.ru/processed/l/public/7be17def4b6ade97_4607044607309.jpg"
+      },
+      {
+        "name": "Чечевица",
+        "price": 125,
+        "url": "https://cm.samokat.ru/processed/l/public/1ee72200466ead08_2199852000004-1.jpg"
+      },
+      {
+        "name": "Хлопья",
+        "price": 117,
+        "url": "https://cm.samokat.ru/processed/l/product_card/bb40be29-7bc0-47b2-b1b8-e761596d9ae9.jpg"
+      },
+      {
+        "name": "Овсянка",
+        "price": 101,
+        "url": "https://cm.samokat.ru/processed/l/original/132983_618571420.jpg"
+      }
+    ]
+
+  },
+
+  {
+    "name":"Напитки",
+    "address":"Пора освежиться!",
+    "delivery_charge": 249,
+    "image":"https://cm.samokat.ru/processed/category/c089d695-80d7-4546-8c73-05b5b9ef8481.jpg",
+
+    "hours":{
+      "Sunday":"7:00 - 00:00",
+      "Monday":"7:00 - 00:00",
+      "Tuesday":"7:00 - 00:00",
+      "Wednesday":"7:00 - 00:00",
+      "Thursday":"7:00 - 00:00",
+      "Friday":"7:00 - 00:00",
+      "Saturday":"7:00 - 00:00"
+    },
+    "menus": [
+      {
+        "name": "Вода 5л",
+        "price": 149,
+        "url": "https://cm.samokat.ru/processed/l/product_card/40915d6c-3669-4570-92d1-1d0cf2eb6220.jpg"
+      },
+      {
+        "name": "Вода 1,5л",
+        "price": 60,
+        "url": "https://cm.samokat.ru/processed/l/product_card/3e1865ff-32c0-49a2-a7d3-70fb8bf85737.jpg"
+      },
+      {
+        "name": "Гранатовый сок 1л",
+        "price": 475,
+        "url": "https://cm.samokat.ru/processed/l/product_card/b26d5394-a98c-49e5-9d2f-ef64e48aca11.jpg"
+      },
+      {
+        "name": "Сок апельсин 1л",
+        "price": 160,
+        "url": "https://cm.samokat.ru/processed/l/product_card/8d811f5c-1585-4431-85df-acf8b87ec708.jpg"
+      },
+      {
+        "name": "Яблочный сок 1л",
+        "price": 120,
+        "url": "https://cm.samokat.ru/processed/l/product_card/5618d862-2e29-488e-b1b0-b42a2b634e54.jpg"
+      },
+      {
+        "name": "Coca-Cola 1л",
+        "price": 179,
+        "url": "https://cm.samokat.ru/processed/l/public/feca3dfae37730e9_5449000054227.jpg"
+      },
+      {
+        "name": "CoolCola 1л",
+        "price": 90,
+        "url": "https://cm.samokat.ru/processed/l/product_card/d422eb68-5782-4655-85eb-8a10ebc94ed6.jpg"
+      },
+      {
+        "name": "Добрый кола 0,33л",
+        "price": 85,
+        "url": "https://cm.samokat.ru/processed/l/public/99b03c5b4d7f4692_4650075427934.jpg"
+      },
+      {
+        "name": "Зелёный чай 1л",
+        "price": 170,
+        "url": "https://cm.samokat.ru/processed/l/public/b66d1229637ddd7b_4600494600487.jpg"
+      },
+      {
+        "name": "Квас 1л",
+        "price": 101,
+        "url": "https://cm.samokat.ru/processed/l/public/6fa9550957f731d4_4600068009043.jpg"
+      }
+    ]
+
+  }
+
+]
